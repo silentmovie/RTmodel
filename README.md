@@ -15,3 +15,5 @@ The output of the code:
    d) a figure tracks the effect of artificial viscosity
 2. A movie illuminates the motion of interface
 3. Recorded data like the evolution of density.
+
+![Image of Yaktocat](https://silentmovie.github.com/images/yaktocat.png)
