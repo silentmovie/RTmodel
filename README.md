@@ -16,4 +16,4 @@ The output of the code:
 2. A movie illuminates the motion of interface
 3. Recorded data like the evolution of density.
 
-![RT Mixing](sample output/movie6.png)
+![RT Mixing](https://github.com/silentmovie/RTmodel/blob/master/sample%20output/movie6.png)
