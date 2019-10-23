@@ -16,4 +16,4 @@ The output of the code:
 2. A movie illuminates the motion of interface
 3. Recorded data like the evolution of density.
 
-![Image of Yaktocat](https://silentmovie.github.com/images/yaktocat.png)
+![RT Mixing](sample output/movie6.png)
