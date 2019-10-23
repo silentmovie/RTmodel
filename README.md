@@ -9,11 +9,11 @@ To see how to measure mixedness without diffusion, see [Mix_Norm](https://arxiv.
 
 The output of the code:
 1. A movie consists of 
-   a) a figure illuminates the overall mixing phenomenon
-   b) a figure focuses on how well fluids mix in any interested window
-   c) a figure quantifies how well fluids mix in the interested window
-   d) a figure tracks the effect of artificial viscosity
-2. A movie illuminates the motion of interface
+   a) a figure that illuminates the overall mixing phenomenon
+   b) a figure that focuses on how well fluids mix in any interested window
+   c) a figure that quantifies how well fluids mix in the interested window
+   d) a figure that tracks the effect of artificial viscosity
+2. A movie that illuminates the motion of interface
 3. Recorded data like the evolution of density.
 
 ![RT Mixing](https://github.com/silentmovie/RTmodel/blob/master/sample%20output/movie6.png)
