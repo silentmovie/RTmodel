@@ -7,7 +7,7 @@ To simulate the mixing phenomenon caused by RT even for immiscible fluids withou
 
 To see how to measure mixedness without diffusion, see [Mix_Norm](https://arxiv.org/abs/1105.1101) by Jean-Luc Thiffeault
 
-The output of the code:
+## The output of the code:
 1. A movie consists of 
    a) a figure that illuminates the overall mixing phenomenon
    b) a figure that focuses on how well fluids mix in any interested window
